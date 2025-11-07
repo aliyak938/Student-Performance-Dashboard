@@ -33,6 +33,3 @@ Students seeking insights into academic performance
 Anyone learning BI concepts through practical dashboard projects
 Hover over charts to view detailed data and insights.
 
-Dashboard Screenshot
-
-Here’s a preview of the Student Performance Dashboard:
