@@ -1,10 +1,3 @@
-Student Performance Dashboard – Aaliya Khan
-
-Tools: Power BI + Excel
-
-Project Highlight
-
-🚀 A dashboard to analyze student performance, track top/average/low performers, and visualize class data—showcasing practical BI skills.
 
 Purpose of Dashboard
 
@@ -22,16 +15,12 @@ Learning Demonstration: Showcases key BI techniques and dashboard design princip
 
 How to Use
 
-Open the dashboard in Power BI.
+Open the dashboard in Power BI or Excel.
 
 Explore different tabs and filters to analyze student performance by subject, class, or overall.
 
 Hover over charts to view detailed data and insights.
 
-Audience
+Dashboard Screenshot
 
-Educators monitoring class performance
-
-Students seeking insights into academic performance
-
-Anyone learning BI concepts through practical dashboard projects
+Here’s a preview of the Student Performance Dashboard:
