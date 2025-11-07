@@ -19,6 +19,18 @@ Open the dashboard in Power BI or Excel.
 
 Explore different tabs and filters to analyze student performance by subject, class, or overall.
 
+Dashboard Screenshot
+
+Here’s a preview of the Student Performance Dashboard:
+
+[Student Performance Dashboard](dashboard.png)
+Audience
+
+Educators monitoring class performance
+
+Students seeking insights into academic performance
+
+Anyone learning BI concepts through practical dashboard projects
 Hover over charts to view detailed data and insights.
 
 Dashboard Screenshot
